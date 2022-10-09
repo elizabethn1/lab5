@@ -1,6 +1,5 @@
 body{
 	background-color: black;
-	/*background-image: url("image/neptune.jpg");*/
 	background-image: linear-gradient(mediumblue, midnightblue);
 }
 
@@ -23,8 +22,8 @@ h1{
 }
 
 img{
-	width: 110px;
-	height: 100px;
+	width: 200px;
+	height: 200px;
 
 }
 
