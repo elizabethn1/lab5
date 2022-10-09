@@ -3,6 +3,14 @@ body{
 	background-color: black;
 }
 
+th{
+	color: white;
+}
+
+td{
+	color: white;
+}
+
 h1{
 	text-align: center;
 	border-style: dotted;
