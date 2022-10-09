@@ -1,3 +1,7 @@
+body{
+	background-image: url(stars.png);
+}
+
 h1{
 	text-align: center;
 	border-style: dotted;
