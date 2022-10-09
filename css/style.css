@@ -9,7 +9,7 @@ h1{
 	font-family: monospace;
 	text-align: center;
 	border-style: double;
-	border-color: #66CDAA;
+	border-color: yellow;
 	border-width: thick;
 }
 
@@ -32,8 +32,8 @@ img{
 }
 
 table{
-	border: 2px solid;
-	border-color: #66CDAA;
+	border: 2px double;
+	border-color: yellow;
 	border-width: thick;
 	text-align: center;
 	margin-left: auto;
