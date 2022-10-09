@@ -1,5 +1,5 @@
 body{
-	background-color: black;
+	background-color: white;
 	background-image: linear-gradient(#87CEFA, midnightblue);
 }
 
@@ -11,7 +11,6 @@ h1{
 	border-style: double;
 	border-color: yellow;
 	border-width: thick;
-	border-spacing: 30px;
 }
 
 th{
