@@ -17,7 +17,7 @@ th{
 	color: white;
 	font-size: 40px;
 	font-family: sans-serif;
-	border: 2px double;
+	border: 2px solid;
 	border-color: yellow;
 	border-width: thick;
 }
@@ -26,7 +26,7 @@ td{
 	color: white;
 	font-size: 30px;
 	font-family: sans-serif;
-	border: 2px double;
+	border: 2px solid;
 	border-color: yellow;
 	border-width: thick;
 }
@@ -37,7 +37,7 @@ img{
 }
 
 table{
-	border: 2px double;
+	border: 2px solid;
 	border-color: yellow;
 	border-width: thick;
 	text-align: center;
