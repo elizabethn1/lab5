@@ -1,7 +1,7 @@
 body{
 	background-color: black;
 	/*background-image: url("image/neptune.jpg");*/
-	background-image: linear-gradient(blue, midnightblue);
+	background-image: linear-gradient(mediumblue, midnightblue);
 }
 
 h1{
