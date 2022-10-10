@@ -13,12 +13,11 @@ h1{
 	border-width: thick;
 }
 
-th#j{
+#j{
 	color: red;
 }
 
 th{
-	color: white;
 	font-size: 40px;
 	font-family: sans-serif;
 	border: 2px solid;
