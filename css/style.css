@@ -13,15 +13,15 @@ h1{
 	border-width: thick;
 }
 
-#j{
-	color: red;
-}
-
 th{
 	font-size: 40px;
 	font-family: sans-serif;
 	border: 2px solid;
 	border-color: yellow;
+}
+
+#j{
+	color: red;
 }
 
 td{
