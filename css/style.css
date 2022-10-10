@@ -11,7 +11,8 @@ h1{
 	border-style: double;
 	border-color: yellow;
 	border-width: thick;
-	border-spacing: 10px 10px;
+	margin-top: 0px;
+	margin-left: 0px;
 }
 
 th{
